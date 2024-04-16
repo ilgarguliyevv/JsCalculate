@@ -1,0 +1,19 @@
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20;
+}
+.inputs input {
+    width: 40%;
+    padding: 10px;
+    margin: 10px 5px;
+}
+.results{
+    text-align: center;
+}
+button{
+    width: 24%;
+    background-color: bisque;
+    font-size: 25px;
+    margin-top: 20px;
+}
